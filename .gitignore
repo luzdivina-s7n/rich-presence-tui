@@ -1,0 +1,7 @@
+bin/
+rsrc.syso
+icon.ico
+config.json
+*.swp
+.DS_Store
+Thumbs.db
